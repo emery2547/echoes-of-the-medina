@@ -1,0 +1,26 @@
+{
+  "name": "echoes-of-the-medina",
+  "displayName": "Echoes of the Medina",
+  "description": "A warm, desert-inspired dual light/dark color palette rooted in the textures, tones, and architecture of Morocco. ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Desert Kasbah",
+        "uiTheme": "vs",
+        "path": "./themes/desert-kasbah.json"
+      },
+      {
+        "label": "Twilight Riad",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twilight-riad.json"
+      }
+    ]
+  }
+}
