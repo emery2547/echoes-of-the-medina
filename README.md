@@ -284,7 +284,7 @@
         <td>hsl(31, 12%, 53%)</td>
     </tr>
     <tr>
-        <td><img src="images/palette_squares/dark/08_surface_mid.png" width="23"/></td>
+        <td><img src="images/palette_squares/dark/08_overlay_mid.png" width="23"/></td>
         <td>overlay_mid</td>
         <td>Sandstone Arch</td>
         <td>#958779</td>
@@ -292,7 +292,7 @@
         <td>hsl(30, 12%, 53%)</td>
     </tr>
     <tr>
-        <td><img src="images/palette_squares/dark/09_surface_light.png" width="23"/></td>
+        <td><img src="images/palette_squares/dark/09_overlay_light.png" width="23"/></td>
         <td>overlay_light</td>
         <td>Saharan Mist</td>
         <td>#B9AFA3</td>
