@@ -1,0 +1,89 @@
+{
+    "palette": "echoes-of-the-medina-dark",
+    "colors": [
+        {
+            "name": "01_bg_dark",
+            "color": "#E7D9CB"
+        },
+        {
+            "name": "02_bg_mid",
+            "color": "#F1E9E0"
+        },
+        {
+            "name": "03_main_bg",
+            "color": "#FAF6F1"
+        },
+        {
+            "name": "04_surface_light",
+            "color": "#D8C9BA"
+        },
+        {
+            "name": "05_surface_mid",
+            "color": "#C7B6A3"
+        },
+        {
+            "name": "06_surface_dark",
+            "color": "#B5A390"
+        },
+        {
+            "name": "07_overlay_light",
+            "color": "#9E8A76"
+        },
+        {
+            "name": "08_overlay_mid",
+            "color": "#7C6A5A"
+        },
+        {
+            "name": "09_overlay_dark",
+            "color": "#635447"
+        },
+        {
+            "name": "10_text_faint",
+            "color": "#55493E"
+        },
+        {
+            "name": "11_text_muted",
+            "color": "#433931"
+        },
+        {
+            "name": "12_text",
+            "color": "#2E2721"
+        },
+        {
+            "name": "13_red",
+            "color": "#C74030"
+        },
+        {
+            "name": "14_orange",
+            "color": "#E6733D"
+        },
+        {
+            "name": "15_yellow",
+            "color": "#E5BD4E"
+        },
+        {
+            "name": "16_green",
+            "color": "#68A85E"
+        },
+        {
+            "name": "17_teal",
+            "color": "#36A097"
+        },
+        {
+            "name": "18_cyan",
+            "color": "#47BCD7"
+        },
+        {
+            "name": "19_blue",
+            "color": "#3D6BB3"
+        },
+        {
+            "name": "20_purple",
+            "color": "#9064B4"
+        },
+        {
+            "name": "21_magenta",
+            "color": "#C05C8D"
+        }
+    ]
+}
