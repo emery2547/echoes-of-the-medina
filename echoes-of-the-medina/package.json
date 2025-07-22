@@ -17,6 +17,11 @@
         "path": "./themes/desert-kasbah.json"
       },
       {
+        "label": "Desert Kasbah Test",
+        "uiTheme": "vs",
+        "path": "./themes/desert-kasbah-color-theme.json"
+      },
+      {
         "label": "Twilight Riad",
         "uiTheme": "vs-dark",
         "path": "./themes/twilight-riad.json"
